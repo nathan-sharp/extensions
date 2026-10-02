@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Addin Type="Standard">
+  <ClassId>{6C5C1A92-4C4E-4B8E-9E74-7D9A7B4D2F31}</ClassId>
+  <ClientId>{6C5C1A92-4C4E-4B8E-9E74-7D9A7B4D2F31}</ClientId>
+  <DisplayName>NJS Materials</DisplayName>
+  <Description>Standards-based physical material assignment for Autodesk Inventor.</Description>
+  <Assembly>__ADDIN_ASSEMBLY_PATH__</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <LoadAutomatically>1</LoadAutomatically>
+</Addin>

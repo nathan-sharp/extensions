@@ -1,0 +1,17 @@
+/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Materials/obj/Release/net8.0-windows/NJS.InventorMaterials.csproj.AssemblyReference.cache
+/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Materials/obj/Release/net8.0-windows/NJS.InventorMaterials.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Materials/obj/Release/net8.0-windows/NJS.InventorMaterials.AssemblyInfoInputs.cache
+/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Materials/obj/Release/net8.0-windows/NJS.InventorMaterials.AssemblyInfo.cs
+/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Materials/obj/Release/net8.0-windows/NJS.InventorMaterials.csproj.CoreCompileInputs.cache
+/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Materials/obj/Release/net8.0-windows/NJS.InventorMaterials.sourcelink.json
+/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Materials/bin/Release/net8.0-windows/NJS.InventorMaterials.deps.json
+/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Materials/bin/Release/net8.0-windows/NJS.InventorMaterials.dll
+/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Materials/bin/Release/net8.0-windows/NJS.InventorMaterials.pdb
+/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Materials/bin/Release/net8.0-windows/Autodesk.Inventor.Interop.dll
+/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Materials/bin/Release/net8.0-windows/stdole.dll
+/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Materials/bin/Release/net8.0-windows/Autodesk.Inventor.Interop.xml
+/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Materials/obj/Release/net8.0-windows/NJS.Inve.A584D5C1.Up2Date
+/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Materials/obj/Release/net8.0-windows/NJS.InventorMaterials.dll
+/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Materials/obj/Release/net8.0-windows/refint/NJS.InventorMaterials.dll
+/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Materials/obj/Release/net8.0-windows/NJS.InventorMaterials.pdb
+/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Materials/obj/Release/net8.0-windows/ref/NJS.InventorMaterials.dll

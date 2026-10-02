@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Tools/NJS.InventorAddIn.csproj": {}
+    "/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Materials/NJS.InventorMaterials.csproj": {}
   },
   "projects": {
-    "/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Tools/NJS.InventorAddIn.csproj": {
+    "/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Materials/NJS.InventorMaterials.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Tools/NJS.InventorAddIn.csproj",
-        "projectName": "NJS.InventorAddIn",
-        "projectPath": "/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Tools/NJS.InventorAddIn.csproj",
+        "projectUniqueName": "/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Materials/NJS.InventorMaterials.csproj",
+        "projectName": "NJS.InventorMaterials",
+        "projectPath": "/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Materials/NJS.InventorMaterials.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Tools/obj/",
+        "outputPath": "/workspaces/extensions/Autodesk_Inventor_Add_Ins/NJS Materials/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

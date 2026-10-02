@@ -6,13 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "NJS.InventorAddIn/1.0.0": {
+      "NJS.InventorMaterials/1.0.0": {
         "dependencies": {
           "Autodesk.Inventor.Interop": "30.20.29800.0",
           "stdole": "7.0.3300.0"
         },
         "runtime": {
-          "NJS.InventorAddIn.dll": {}
+          "NJS.InventorMaterials.dll": {}
         }
       },
       "Autodesk.Inventor.Interop/30.20.29800.0": {
@@ -34,7 +34,7 @@
     }
   },
   "libraries": {
-    "NJS.InventorAddIn/1.0.0": {
+    "NJS.InventorMaterials/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
